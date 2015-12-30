@@ -1,5 +1,5 @@
-This folder contains some Arduino libraries and some code samples. 
+# Arduino RunningMedian
 
-For questions - check Arduino.cc/forum
-
-
+Forked for the sake of using it as a git submodule  
+Original repo: https://github.com/RobTillaart/Arduino  
+Doc: http://playground.arduino.cc/Main/RunningMedian
